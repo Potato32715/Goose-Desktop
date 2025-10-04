@@ -1,3 +1,10 @@
+
+git status 
+
+git add -A
+git commit -m "first commit"
+
+
 # VueJS-with-Vite
 
 This template should help get you started developing with Vue 3 in Vite.
